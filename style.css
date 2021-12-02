@@ -242,7 +242,7 @@ a {
     display: flex;
     flex-direction: row-reverse;
     margin-top: 50px;
-    /* gap: 20%; */
+    gap: 5%;
   }
   .recipe-info {
     display: block;
